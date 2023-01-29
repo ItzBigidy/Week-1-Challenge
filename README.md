@@ -13,7 +13,7 @@ As an aspiring Web-Developer I wanted to improve the exisiting HTML and CSS code
 
 ## Webpage Preview
 
-![Preview of Horeison's front Webpage](/Develop/assets/images/digital-marketing-meeting.jpg)
+![Preview of Horeison's front Webpage](/Develop/assets/images/01-html-css-git-homework-demo.png)
 
 ## License
 
